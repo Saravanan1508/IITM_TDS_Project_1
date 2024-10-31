@@ -16,4 +16,4 @@ This project collects and analyzes GitHub user data from Shanghai, specifically 
 
 - Data was scraped from GitHub's API using a Colab notebook to gather information on users in Shanghai with over 200 followers, including up to 500 of their most recent repositories.
 - Notably, some data is in Chinese, and many high-follower users contribute to repositories in various languages beyond just JavaScript and Python.
-- Initially, it's best to scrape a small subset of data to ensure the process runs smoothly. This saves time, as re-scraping can be lengthy with each code adjustment. Developers should also be proficient in pandas, shell commands, and Excel for better analysys.
+- Initially, it’s best to scrape a small subset of data to ensure the process runs smoothly, saving time by avoiding lengthy re-scrapes with each code adjustment. Developers should be proficient in pandas, shell commands, and Excel to enhance data analysis.
